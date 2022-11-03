@@ -1,0 +1,16 @@
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.csproj.AssemblyReference.cache
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.AssemblyInfoInputs.cache
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.AssemblyInfo.cs
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.csproj.CoreCompileInputs.cache
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.exe
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.deps.json
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.runtimeconfig.json
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.runtimeconfig.dev.json
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.dll
+C:\new project\CSharp18\bin\Debug\net5.0\ref\CSharp18.dll
+C:\new project\CSharp18\bin\Debug\net5.0\CSharp18.pdb
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.dll
+C:\new project\CSharp18\obj\Debug\net5.0\ref\CSharp18.dll
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.pdb
+C:\new project\CSharp18\obj\Debug\net5.0\CSharp18.genruntimeconfig.cache
